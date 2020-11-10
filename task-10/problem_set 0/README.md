@@ -1,5 +1,5 @@
 # Problem Set _ 0
-## Project name - Get the ball!
+## Project name - Get the ball!🏀
 ### Project requirements
 1) Your project must have at least two sprites, at least one of which must resemble something other than a cat.
 
