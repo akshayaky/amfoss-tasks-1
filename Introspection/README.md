@@ -14,5 +14,5 @@ Maintaning a good CGPA, I would devote time on daily basis and even maintain con
 I will put my theoritical knowledge into practical and also cotribute to open source coding. Apart from improving my skills and gaining knowledge from the club, I would share my knowledge and ideas with the other members. 
 
 ### Do you have any feedback for the selection process ?
-It is fair to select the people who have a prior knowledge on programming. But, apart from that it would be great if the students who show a lot of interest in learning something new and who are enthusiastic are selected.
+It is fair to select the people who have a prior knowledge on programming. But, apart from that it would be great if the students who show a lot of interest in learning something new and who are enthusiastic are selected. 
 
