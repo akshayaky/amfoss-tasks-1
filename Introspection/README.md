@@ -1,5 +1,4 @@
-# Introspection 
-
+# Introspection 📖
 ### Why must we choose you ?
 I’ve always shown interest in learning new skills and technology. I am very meticulous and always try to give my best in any task assigned to me. When skills combine with team work the output would be awesome and I believe that I would be good in working with a team. 
 I want to acquire and accomplish my dreams, and amFOSS would be the right platform to achieve them.
