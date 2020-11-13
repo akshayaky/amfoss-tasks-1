@@ -1,0 +1,39 @@
+#include <cs50.h>
+#include<stdio.h>
+#include<math.h>
+int main(void)
+{ 
+    float amount;
+    int amount_in_cents,x;
+    do
+    {
+       amount = get_float("Enter the amount to be returned: "); 
+    }
+    while(amount <= 0);
+    
+    amount_in_cents = round(amount * 100);
+   // printf("%i\n",amount_in_cents);
+    int no_of_coins = 0;
+    
+    while(amount_in_cents > 0)
+    {
+        x = amount_in_cents / 25;
+        no_of_coins = no_of_coins + x;
+        amount_in_cents = amount_in_cents % 25;
+        
+         x = amount_in_cents / 10;
+        no_of_coins = no_of_coins + x;
+        amount_in_cents = amount_in_cents % 10;
+        
+         x = amount_in_cents / 5;
+        no_of_coins = no_of_coins + x;
+        amount_in_cents = amount_in_cents % 5;
+        
+         x = amount_in_cents /1;
+        no_of_coins = no_of_coins + x;
+        amount_in_cents = amount_in_cents % 1;
+    }
+    
+    printf("%i\n",no_of_coins);
+    
+} 
