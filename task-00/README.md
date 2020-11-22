@@ -20,38 +20,38 @@ There's no need of hiring any expert while facing issues or threats. We can find
 Allot space to install the software and make sure that at least a minimum of 25 GB of free storage space, or 5 GB for a minimal installation is available.
 
 #### Step-2
-2)Install 'Ubuntu' ( Resource: https://ubuntu.com/#download )
+Install 'Ubuntu' ( Resource: https://ubuntu.com/#download )
 
 #### Step-3
-3)Create a bootable USB stick using a utility such as Universal USB Installer (BIOS compatible) or Rufus (UEFI compatible).
+Create a bootable USB stick using a utility such as Universal USB Installer (BIOS compatible) or Rufus (UEFI compatible).
 
 #### Step-4
-4)Place the USB stick or DVD in the appropriate drive, reboot the machine and instruct the BIOS/UEFI to boot-up from the DVD/USB by pressing a special function key (usually    F12, F10 or F2 depending on the vendor specifications).Once the media boot-up a new grub screen should appear on your monitor. From the menu select Install Ubuntu and hit Enter to continue.
+Place the USB stick or DVD in the appropriate drive, reboot the machine and instruct the BIOS/UEFI to boot-up from the DVD/USB by pressing a special function key (usually    F12, F10 or F2 depending on the vendor specifications).Once the media boot-up a new grub screen should appear on your monitor. From the menu select Install Ubuntu and hit Enter to continue.
 
 #### Step-5
-5)After the boot media finishes loading into RAM you will end-up with a completely functional Ubuntu system running in live-mode.
+After the boot media finishes loading into RAM you will end-up with a completely functional Ubuntu system running in live-mode.
 On the Launcher hit on the second icon from top, Install Ubuntu 19.04 LTS, and the installer utility will start. Choose the language you wish to perform the installation and click on the Continue button to proceed further.
 
 #### Step-6
-6)Next, choose the first option “Normal Installation” (out of ‘Normal installation’ and ‘Minimal installation’) and hit on the Continue button again.Beneath the installation-type question are two checkboxes; one to enable updates while installing and another to enable third-party software (enabling both "Download updates" and "Install third-party software" is recomended).
+Next, choose the first option “Normal Installation” (out of ‘Normal installation’ and ‘Minimal installation’) and hit on the Continue button again.Beneath the installation-type question are two checkboxes; one to enable updates while installing and another to enable third-party software (enabling both "Download updates" and "Install third-party software" is recomended).
 
 #### Step-7
-7)Use the checkboxes to choose whether you’d like to install Ubuntu alongside another operating system, delete your existing operating system and replace it with Ubuntu, or — if you’re an advanced user — choose the ’Something else’ option.
+Use the checkboxes to choose whether you’d like to install Ubuntu alongside another operating system, delete your existing operating system and replace it with Ubuntu, or — if you’re an advanced user — choose the ’Something else’ option.
 
 #### Step-8
-8)After configuring storage, click on the ‘Install Now’ button. A small pane will appear with an overview of the storage options you’ve chosen, with the chance to go back if the details are incorrect.Click Continue to fix those changes in place and start the installation process.
+After configuring storage, click on the ‘Install Now’ button. A small pane will appear with an overview of the storage options you’ve chosen, with the chance to go back if the details are incorrect.Click Continue to fix those changes in place and start the installation process.
 
 #### Step-9
-9)If you are connected to the internet, your location will be detected automatically. Check your location is correct and click ’Forward’ to proceed.
+If you are connected to the internet, your location will be detected automatically. Check your location is correct and click ’Forward’ to proceed.
 
 #### Step-10
-10)fill in the login details
+Fill in the login details
 
 #### Step-11
-11)The installer will now complete in the background while the installation window teaches you a little about how awesome Ubuntu is.
+The installer will now complete in the background while the installation window teaches you a little about how awesome Ubuntu is.
 
 #### Step-12
-12)After everything has been installed and configured, a small window will appear asking you to restart your machine. Click on Restart Now and remove either the DVD or USB flash drive when prompted.
+After everything has been installed and configured, a small window will appear asking you to restart your machine. Click on Restart Now and remove either the DVD or USB flash drive when prompted.
 ### Congratulations! You have successfully installed Linux operating system!
 ##### Reference: https://ubuntu.com/tutorials/install-ubuntu-desktop#11-installation-complete
 
