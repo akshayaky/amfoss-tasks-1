@@ -20,7 +20,8 @@ There's no need of hiring any expert while facing issues or threats. We can find
 Allot space to install the software and make sure that at least a minimum of 25 GB of free storage space, or 5 GB for a minimal installation is available.
 
 #### Step-2
-Install 'Ubuntu' ( Resource: https://ubuntu.com/#download )
+Install 'Ubuntu' 
+( Resource: https://ubuntu.com/#download )
 
 #### Step-3
 Create a bootable USB stick using a utility such as Universal USB Installer (BIOS compatible) or Rufus (UEFI compatible).
