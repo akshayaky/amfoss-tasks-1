@@ -67,30 +67,30 @@ There were 2 solutions to my problem:
 Switch your disk setting in the BIOS from RAID to AHCI.
 (But, there was a shortcoming in this process as making that switch comes with some problems though, as Windows will no longer boot.)
 ### Solution_2
-##### Step-1
-1) Right-click the Windows Start Menu. Choose Command Prompt (Admin).
+#### Step-1
+Right-click the Windows Start Menu. Choose Command Prompt (Admin).
 #### Step-2
-2) If you don’t see Command Prompt listed, it’s because you have already been updated to a later version of Windows.  If so, use this method instead to get to the Command Prompt:
+If you don’t see Command Prompt listed, it’s because you have already been updated to a later version of Windows.  If so, use this method instead to get to the Command Prompt:
 #### Step-3
-3) Click the Start Button and type cmd
+Click the Start Button and type cmd
 #### Step-4
-4) Right-click the result and select Run as administrator
+Right-click the result and select Run as administrator
 #### Step-5
-5) Type this command and press ENTER: bcdedit /set {current} safeboot minimal
+Type this command and press ENTER: bcdedit /set {current} safeboot minimal
 #### Step-6
-6) If this command does not work for you, try bcdedit /set safeboot minimal
+If this command does not work for you, try bcdedit /set safeboot minimal
 #### Step-7
-7) Restart the computer and enter BIOS Setup (the key to press varies between systems).
+Restart the computer and enter BIOS Setup (the key to press varies between systems).
 #### Step-8
-8) Change the SATA Operation mode to AHCI from either IDE or RAID (again, the language varies).
+Change the SATA Operation mode to AHCI from either IDE or RAID (again, the language varies).
 #### Step-9
-9) Save changes and exit Setup and Windows will automatically boot to Safe Mode.
+Save changes and exit Setup and Windows will automatically boot to Safe Mode.
 #### Step-10
-10) Right-click the Windows Start Menu once more. Choose Command Prompt (Admin)
+Right-click the Windows Start Menu once more. Choose Command Prompt (Admin)
 #### Step-11
-11) Type this command and press ENTER: bcdedit /deletevalue {current} safeboot
+Type this command and press ENTER: bcdedit /deletevalue {current} safeboot
 #### Step-12
-13) If you had to try the alternate command above, you will likely need to do so here also: bcdedit /deletevalue safeboot
+If you had to try the alternate command above, you will likely need to do so here also: bcdedit /deletevalue safeboot
 
 ##### Reboot once more and Windows will automatically start with AHCI drivers enabled.
 ##### Reference: https://askubuntu.com/questions/1281127/disable-rst-for-installing-ubuntu-20-4-dual-boot
