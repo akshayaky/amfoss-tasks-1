@@ -6,7 +6,7 @@ When you have Windows installed, you need to download/purchase an Antivirus prog
 ### 2. Open source 🏆
 The aspect that makes linux different from other operating systems is that it falls under FOSS(Free and open source software) i.e., it's source code is freely available.
 The developer community benefits from this as its members have the freedom to view and modify the source code, which is not possible in other OSs.
-### 3. Runs on any hardware 💿
+### 3. Runs on any hardware 💿💾
 With 'Linux', you could even utilize one of your oldest computer systems to achieve a task. However, that does not mean that every Linux distribution would work with 256 MB of RAM coupled with an outdated processor. However, there are options which you can install on such low-end systems as well (such as Puppy Linux).Whereas windows requires a higher hardware configuration (minimum hardware requirements) in order to support different updates.
 ### 4.Customisation 🔧⚙
 One major advantage of using Linux is 'customization'. 'Linux' is perfect tewaking system’s looks. There are numerous choices for wallpapers, desktop icons and panels. 
@@ -21,7 +21,7 @@ Allot space to install the software and make sure that at least a minimum of 25 
 
 #### Step-2
 Install 'Ubuntu' 
-##### ( Resource: https://ubuntu.com/#download )
+##### ( 📃Resource: https://ubuntu.com/#download )
 
 #### Step-3
 Create a bootable USB stick using a utility such as Universal USB Installer (BIOS compatible) or Rufus (UEFI compatible).
@@ -54,7 +54,7 @@ The installer will now complete in the background while the installation window 
 #### Step-12
 After everything has been installed and configured, a small window will appear asking you to restart your machine. Click on Restart Now and remove either the DVD or USB flash drive when prompted.
 ### Congratulations!🎉🎊 You have successfully installed Linux operating system!
-##### Reference: https://ubuntu.com/tutorials/install-ubuntu-desktop#11-installation-complete
+##### 💿📚Reference: https://ubuntu.com/tutorials/install-ubuntu-desktop#11-installation-complete
 
 ## Challenges I faced while installing Ubuntu
 While installing the software I had a pop-up window on my screen that said "Disable intel RST".
@@ -94,7 +94,7 @@ Type this command and press ENTER: bcdedit /deletevalue {current} safeboot
 If you had to try the alternate command above, you will likely need to do so here also: bcdedit /deletevalue safeboot
 
 ##### Reboot once more and Windows will automatically start with AHCI drivers enabled.
-##### Reference: https://askubuntu.com/questions/1281127/disable-rst-for-installing-ubuntu-20-4-dual-boot
+##### 📚Reference: https://askubuntu.com/questions/1281127/disable-rst-for-installing-ubuntu-20-4-dual-boot
 
 ### I've followed "Solution_2" to resolve my issue. Now I have successfully dual booted my laptop with "Ubuntu".
 
