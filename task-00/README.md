@@ -21,7 +21,7 @@ Allot space to install the software and make sure that at least a minimum of 25 
 
 #### Step-2
 Install 'Ubuntu' 
-( Resource: https://ubuntu.com/#download )
+##### ( Resource: https://ubuntu.com/#download )
 
 #### Step-3
 Create a bootable USB stick using a utility such as Universal USB Installer (BIOS compatible) or Rufus (UEFI compatible).
