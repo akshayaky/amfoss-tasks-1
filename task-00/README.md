@@ -53,7 +53,7 @@ The installer will now complete in the background while the installation window 
 
 #### Step-12
 After everything has been installed and configured, a small window will appear asking you to restart your machine. Click on Restart Now and remove either the DVD or USB flash drive when prompted.
-### Congratulations!🎉🎊 You have successfully installed Linux operating system!
+### 🎉🎊 Congratulations!You have successfully installed Linux operating system!
 ##### 💿📚Reference: https://ubuntu.com/tutorials/install-ubuntu-desktop#11-installation-complete
 
 ## Challenges I faced while installing Ubuntu
