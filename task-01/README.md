@@ -1,2 +1,2 @@
-## Stared all amFOSS repositories
+## Stared all amFOSS repositories 
 
