@@ -6,6 +6,3 @@ level_3 --> level_4 - pIwrPrtPN36QITSp3EQaw936yaFoFgAB
 level_4 --> level_5 - koReBOKuIDDepwhWk7jZC0RTdopnAYKh 
 level_5 --> level_6 - DXjZPULLxYr17uwoI01bNLQbtFemEgo7
 level_6 --> level_7 - HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
-level_7 --> level_8 - cvX2JJa4CFALtqS87jk27qwqGhBM9plV 
-level_8 --> level_9 - UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
-level_9 --> level_10 - truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
