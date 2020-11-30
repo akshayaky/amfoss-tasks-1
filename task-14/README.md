@@ -34,5 +34,8 @@ file Determines the file type
 
 ## Level_5 ---> Level_6
 find ./ -size 1033c
+to find and open the file of a given size (in this case : 1033)
 
 ## Level_6 ---> Level_7
+
+
