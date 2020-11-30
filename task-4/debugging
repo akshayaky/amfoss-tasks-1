@@ -437,7 +437,7 @@ import java.awt.Font;
 	    }
 
 	    //after user press stop button
-	    class stopListener implements ActionListener {
+	    class stopListener implements ActionListener { 
 	        public void actionPerformed(ActionEvent e) {
 	            finishTime = System.currentTimeMillis(); // getting stopped time
 	            timeSpent = finishTime - startTime; // calculating time spent
